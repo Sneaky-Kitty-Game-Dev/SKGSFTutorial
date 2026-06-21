@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Content for FAB
+Content/FPS_Weapon_Bundle/
+
 # Plugin Specific
 Plugins/
 
